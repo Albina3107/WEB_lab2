@@ -1,0 +1,121 @@
+.div1 {
+    background-color: gainsboro;
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+
+}
+.div1\.1 {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 69px;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+}
+.div1\.2 {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    margin-top: 69px;
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+}
+.div1\.3 {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    margin-top: 69px;
+    margin-left: 125px;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+}
+.div1\.4 {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    margin-top: 125px;
+    margin-left: 69px;
+    border: 1px solid black;
+    border-radius: 25px;
+    position: absolute;
+}
+.div1\.5 {
+    background-color: black;
+    width: 5px;
+    height: 75px;
+    margin-top: 15px;
+    margin-left: 73px;
+    position: absolute;
+}
+.div1\.6 {
+    background-color: black;
+    width: 60px;
+    height: 5px;
+    margin-top: 73px;
+    margin-left: 60px;
+    position: absolute;
+}
+
+.div2 {
+    background-color: gainsboro;
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transform: translate(300px, 0%);
+}
+.div2\.1{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transform: translate(70px, 90%);
+}
+.div2\.2{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transform: translate(10px, 490%);
+}
+.div2\.3{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transform: translate(130px, 410%);
+}
+.div2\.4{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transform: translate(70px, 760%);
+}
+.div2\.5{
+    background-color: black;
+    width: 4px;
+    height: 75px;
+    transform: translate(74px, -32px);
+}
+.div2\.6{
+    background-color: black;
+    width: 60px;
+    height: 4px;
+    transform: translate(64px, -46px);
+}
